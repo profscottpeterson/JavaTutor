@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Java Tutor</string>
+    <string-array name="subjects">
+        <item>Java Basics (Study Mode)</item>
+        <item>Java Basics (Quiz Mode)</item>
+        <item>Java Intermediate (Study Mode)</item>
+        <item>Java Intermediate (Quiz Mode)</item>
+        <item>Java Advanced (Study Mode)</item>
+        <item>Java Advanced (Quiz Mode)</item>
+    </string-array>
+    <string name="JBasicIntro">Welcome to Java!\n\n
+
+    The Java programming language was originally developed by James Gosling
+    at Sun Microsystems (since acquired by Oracle) and first released in 1991.  It was developed to be
+    an object oriented programming language and is intended to simplify the development process for
+    programmers by providing a "write once, run anywhere" concept, meaning that compiled Java code will
+    run on any platform that Java supports without having to recompile.  This saves a great amount of time
+    for developers and simplifies the development process, because developers don't need to worry about
+    learning the specific details of each platform.\n\n
+
+    Java is one of the most, if not the most, popular programming languages in use today, with over nine
+    million developers.  </string>
+</resources>
